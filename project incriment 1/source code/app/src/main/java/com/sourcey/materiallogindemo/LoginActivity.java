@@ -12,7 +12,11 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.facebook.CallbackManager;
+import com.facebook.FacebookCallback;
+import com.facebook.FacebookException;
 import com.facebook.FacebookSdk;
+import com.facebook.login.LoginResult;
 import com.facebook.login.widget.LoginButton;
 
 import butterknife.ButterKnife;
@@ -22,6 +26,7 @@ public class LoginActivity extends AppCompatActivity {
     private static final String TAG = "LoginActivity";
     private static final int REQUEST_SIGNUP = 0;
     LoginButton loginButton;
+    CallbackManager callbackManager;
 
 
     @Bind(R.id.input_email) EditText _emailText;
@@ -60,6 +65,39 @@ public class LoginActivity extends AppCompatActivity {
         });
 
         loginButton=(LoginButton)findViewById(R.id.fb_login_btn);
+        callbackManager = CallbackManager.Factory.create();
+
+        loginButton.registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
+            @Override
+            public void onSuccess(LoginResult loginResult) {
+
+                _loginButton.setEnabled(true);
+                finish();
+            }
+
+            @Override
+            public void onCancel() {
+
+                Intent redirect = new Intent(LoginActivity.this, SignupActivity.class);
+                startActivity(redirect);
+
+            }
+
+            @Override
+            public void onError(FacebookException error) {
+                Intent redirect = new Intent(LoginActivity.this, SignupActivity.class);
+                startActivity(redirect);
+
+            }
+        });
+
+    }
+
+
+    public void skip_now(View v){
+
+        _loginButton.setEnabled(true);
+        finish();
     }
 
     public void login() {
@@ -97,6 +135,9 @@ public class LoginActivity extends AppCompatActivity {
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+
+        callbackManager.onActivityResult(requestCode,resultCode,data);
+
         if (requestCode == REQUEST_SIGNUP) {
             if (resultCode == RESULT_OK) {
 
@@ -146,6 +187,7 @@ public class LoginActivity extends AppCompatActivity {
 
         return valid;
     }
+
 
 
 }

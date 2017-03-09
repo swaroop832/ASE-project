@@ -46,4 +46,15 @@ public class MainActivity extends ActionBarActivity {
         Intent redirect = new Intent(MainActivity.this, LoginActivity.class);
         startActivity(redirect);
     }
+
+    public void remind(View v) {
+
+    }
+
+    public void wakeme(View v) {
+
+
+
+    }
+
 }
