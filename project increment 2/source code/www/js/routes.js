@@ -35,7 +35,7 @@ angular.module('app.routes', [])
     views: {
       'side-menu21': {
         templateUrl: 'templates/alarm.html',
-        controller: 'alarmCtrl'
+        controller: 'alarm-contro'
       }
     }
   })
