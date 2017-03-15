@@ -3,16 +3,19 @@
     <form id="signup-form2" class="list">
       <ion-list id="signup-list3">
         <label class="item item-input name" id="signup-input3">
-          <input type="text" placeholder="Name">
+          <input type="text" placeholder="Name" ng-model="name">
         </label>
         <label class="item item-input item-stacked-label email" id="signup-input4">
-          <input type="email" placeholder="Email">
+          <input type="email" placeholder="Email" ng-model="username">
         </label>
         <label class="item item-input item-stacked-label password" id="signup-input5">
-          <input type="password" placeholder="Password">
+          <input type="password" placeholder="Password" ng-model="password">
+        </label>
+          <label class="item item-input item-stacked-label password" id="signup-input5">
+          <input type="password" placeholder="Reenter Password" ng-model="password">
         </label>
       </ion-list>
-      <a ui-sref="login" id="signup-button3" class="button button-stable  button-block">Sign up</a>
+      <a  id="signup-button3"  class="button button-stable button-block button-positive" ng-click="register(username, password)">Sign up</a>
     </form>
   </ion-content>
 </ion-view>

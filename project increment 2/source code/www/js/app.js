@@ -5,7 +5,8 @@
 // the 2nd parameter is an array of 'requires'
 // 'starter.services' is found in services.js
 // 'starter.controllers' is found in controllers.js
-var lab7 = angular.module('app', ['ionic', 'app.controllers', 'app.routes', 'app.directives','app.services','firebase'])
+var lab7 = angular.module('app', ['ionic', 'app.controllers', 'app.routes', 'app.directives','app.services','firebase','ngCordova'])
+
 
 lab7.config(function($ionicConfigProvider, $sceDelegateProvider){
   
@@ -154,3 +155,30 @@ lab7.controller('alarm-contro',function($scope,$ionicModal,$filter,$interval,$io
    };
 
 })
+
+lab7.controller("FirebaseController", function($scope, $state, $firebaseAuth) {
+
+    var fbAuth = $firebaseAuth();
+
+    $scope.login = function(username, password) {
+        fbAuth.$signInWithEmailAndPassword(username,password).then(function(authData) {
+            $state.go("menu.home");
+        }).catch(function(error) {
+            console.error("ERROR: " + error);
+        });
+    }
+
+    $scope.register = function(username, password) {
+        fbAuth.$createUserWithEmailAndPassword(username,password).then(function(userData) {
+            return fbAuth.$signInWithEmailAndPassword(username,
+                password);
+        }).then(function(authData) {
+            $state.go("login");
+        }).catch(function(error) {
+            console.error("ERROR: " + error);
+        });
+    }
+
+});
+
+

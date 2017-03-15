@@ -69,13 +69,13 @@ angular.module('app.routes', [])
   .state('login', {
     url: '/login',
     templateUrl: 'templates/login.html',
-    controller: 'loginCtrl'
+    controller: 'FirebaseController'
   })
 
   .state('signup', {
     url: '/signup',
     templateUrl: 'templates/signup.html',
-    controller: 'signupCtrl'
+    controller: 'FirebaseController'
   })
 
 $urlRouterProvider.otherwise('/login')

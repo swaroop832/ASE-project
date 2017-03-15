@@ -1,11 +1,12 @@
 <ion-view title="Alarm" id="page3" class="alarm">
   <ion-content padding="true" class="has-header"></ion-content>
   <ion-content>
-      <ion-header-bar class="bar bar-header bar-stable">
+      <ion-header-bar class="bar-stable">
         <h1 class="title">Create an alarm here!!</h1>
         <button class="button button-icon" ng-click="newalarm()"><i class="ion-compose"></i></button>
       </ion-header-bar>
       <div style="padding-top:50px">
+      
         <ul class="list">
           <li class="item" ng-repeat="alarm in alarms track by $index">
             {{alarm.time}}
@@ -23,6 +24,7 @@
           </li>
         </ul>
       </div>
+      </ion-content>
     <script id="add-alarm.html" type="text/ng-template">
      <div class="modal">
      <ion-header-bar class="bar-secondary">
@@ -129,13 +131,11 @@
          </label>
         </div>
         <div class="padding">
-           <button type="submit" class="button button-block botton-positive">Create Alarm</button>
+           <button type="submit" class="button button-block button-positive">Create Alarm</button>
         </div>
       </form>
       </ion-content>
       </div>
       </script>
-      
-    </ion-content>
        
 </ion-view>
