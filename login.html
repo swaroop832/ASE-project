@@ -1,0 +1,29 @@
+<ion-view id="page4" title="Login" class="login">
+    
+  <ion-content padding="true" class="has-header">
+    <h1 id="login-heading1" style="color:#0B3B92;font-style:italic;text-align:center;"> Time Keeper</h1>
+    <div>
+      <img src="img/ionic.png" style="display: block; width: 40%; height: auto; margin-left: auto; margin-right: auto;">
+    </div>
+    <form id="login-form1" class="list">
+      <ion-list id="login-list2">
+        <label class="item item-input item-stacked-label" id="login-input1">
+          <input type="email" placeholder="Email" ng-model="username">
+        </label>
+        <label class="item item-input item-stacked-label" id="login-input2">
+          <input type="password" placeholder="password" ng-model="password">
+        </label>
+      </ion-list>
+    </form>
+    <div class="spacer" style="width: 300px; height: 16px;"></div>
+    <a  id="login-button1" style="font-style:italic; text-align:center;" class="button button-positive button-block" ng-click="login(username, password)">Log in</a>
+    <div id="login-button-bar1" class="button-bar">
+      <button id="login-button9" class="button button-positive  button-block button-outline">
+          <i class="icon ion-social-facebook"></i></button>
+      <button id="login-button10" class="button button-positive  button-block button-outline">
+          <i class="icon ion-social-googleplus"></i></button>
+    </div>
+    <a ui-sref="signup" id="login-button2" class="button button-positive  button-block button-clear">Or create an account</a>
+       <a ui-sref="menu.home" id="login-button2" class="button button-positive  button-block button-clear">Skip Now</a>
+  </ion-content>
+</ion-view>
