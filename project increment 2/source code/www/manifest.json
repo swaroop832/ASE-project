@@ -1,11 +1,11 @@
 
 {
-  "name": "My Ionic App",
+  "name": "Time Keeper",
   "short_name": "My Ionic App",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
-    "src": "icon.png",
+    "src": "img/ionic.png",
     "sizes": "512x512",
     "type": "image/png"
   }]

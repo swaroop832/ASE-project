@@ -163,8 +163,10 @@ lab7.controller("FirebaseController", function($scope, $state, $firebaseAuth) {
     $scope.login = function(username, password) {
         fbAuth.$signInWithEmailAndPassword(username,password).then(function(authData) {
             $state.go("menu.home");
+            alert("you have logged in successfully");
         }).catch(function(error) {
             console.error("ERROR: " + error);
+            alert("please enter correct details or please signup ");
         });
     }
 
@@ -174,11 +176,97 @@ lab7.controller("FirebaseController", function($scope, $state, $firebaseAuth) {
                 password);
         }).then(function(authData) {
             $state.go("login");
+            alert("you have signedup successfully, please enter details to login");
         }).catch(function(error) {
             console.error("ERROR: " + error);
+            alert("there is error in signingup, please make sure your password has 6 characters and enter valid email address");
         });
     }
 
 });
+
+lab7.factory('ClockSrv', function($interval) {
+  'use strict';
+  var service = {
+    clock: addClock,
+    cancelClock: removeClock
+  };
+
+  var clockElts = [];
+  var clockTimer = null;
+  var cpt = 0;
+
+  function addClock(fn) {
+    var elt = {
+      id: cpt++,
+      fn: fn
+    };
+    clockElts.push(elt);
+    if (clockElts.length === 1) {
+      startClock();
+    }
+    return elt.id;
+  }
+
+  function removeClock(id) {
+    for (var i in clockElts) {
+      if (clockElts[i].id === id) {
+        clockElts.splice(i, 1);
+      }
+    }
+    if (clockElts.length === 0) {
+      stopClock();
+    }
+  }
+
+  function startClock() {
+    if (clockTimer === null) {
+      clockTimer = $interval(function() {
+        for (var i in clockElts) {
+          clockElts[i].fn();
+        }
+      }, 1000);
+    }
+  }
+
+  function stopClock() {
+    if (clockTimer !== null) {
+      $interval.cancel(clockTimer);
+      clockTimer = null;
+    }
+  }
+
+  return service;
+})
+
+lab7.run(function($rootScope, $filter, ClockSrv) {
+  ClockSrv.clock(function() {
+    // console.log($filter('date')(Date.now(), 'yyyy-MM-dd HH:mm:ss')); 
+    $rootScope.clock = $filter('date')(Date.now(), 'MM/dd/yyyy  ');
+      $rootScope.clock1 = $filter('date')(Date.now(), 'HH:mm:ss'); 
+    
+  });
+                 
+})
+
+lab7.controller('menuCtrl', function($scope, $timeout, $filter, ClockSrv) {
+  $scope.myTitle = 'Clock';
+  // $scope.clock = ClockSrv.clock();
+
+  /*$scope.data = {
+    tgl: "Memuat jam..."
+  }
+  var tickInterval = 1000; //ms
+
+  var tick = function() {
+    $scope.data.tgl = $filter('date')(Date.now(), 'yyyy-MM-dd HH:mm:ss'); // get the current time
+    $timeout(tick, tickInterval); // reset the timer
+  }
+
+  // Start the timer
+  $timeout(tick, tickInterval);*/
+
+});
+
 
 
