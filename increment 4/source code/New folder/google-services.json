@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "401953165989",
+    "project_id": "timekeeper-6adec"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401953165989:android:520827fd9e7c4c39",
+        "android_client_info": {
+          "package_name": "com.example.bm_admin.timekeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401953165989-9e3dhn2sa7i3j02jf72650s6gp3gjj0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY8cv4B4ayye4dsgNqmNb4UixaYB8M73c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

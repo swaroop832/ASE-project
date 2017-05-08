@@ -1,0 +1,4 @@
+#Sat Apr 15 16:27:39 IST 2017
+base.0=D\:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

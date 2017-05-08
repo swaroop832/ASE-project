@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TimeKeeper</string>
+    <string name="openDrawer">openDrawer</string>
+    <string name="closeDrawer">closeDrawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1238534049598471</string>
+    <string name="facebook_app_">680661655450485</string>
+
+
+    <string-array name="spinnerdata">
+        <item>Puzzle</item>
+        <item>Speech</item>
+    </string-array>
+    <string name="title_activity_time_zone">Select Time Zone</string>
+
+    <string name="permission_msg">Denying permission may cause it to no longer function as intended.</string>
+    <string name="title_activity_note">NoteActivity</string>
+
+    <string name="server_client_id">401953165989-4d49oertatak2sp95nf6uckbbpmarool.apps.googleusercontent.com</string>
+
+</resources>

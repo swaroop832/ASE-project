@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\release\\menu\\bottom_navigation_items.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\menu\\bottom_navigation_items.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\release\\menu\\note_share.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\menu\\note_share.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\release\\menu\\notes.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\menu\\notes.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_menu.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\menu\\menu_menu.xml"
+    }
+]

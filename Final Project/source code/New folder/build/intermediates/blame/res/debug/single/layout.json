@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tool_bar.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\tool_bar.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\1ad538d3ac41d735b3a9690b951528ab3af8928c\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signup.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\signup.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_note.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\activity_note.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_header.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\111b4575e1cbc4ceca2a1fb21206d0d94d9cd0e3\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\1ad538d3ac41d735b3a9690b951528ab3af8928c\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\completedtask.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\completedtask.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_rows.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\drawer_rows.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\111b4575e1cbc4ceca2a1fb21206d0d94d9cd0e3\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\1ad538d3ac41d735b3a9690b951528ab3af8928c\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\111b4575e1cbc4ceca2a1fb21206d0d94d9cd0e3\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\remind.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\remind.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawerscreen.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\drawerscreen.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\1ad538d3ac41d735b3a9690b951528ab3af8928c\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\1ad538d3ac41d735b3a9690b951528ab3af8928c\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarmactivity.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\alarmactivity.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\1ad538d3ac41d735b3a9690b951528ab3af8928c\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\111b4575e1cbc4ceca2a1fb21206d0d94d9cd0e3\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_layout.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\notification_layout.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timezone_adapter.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\timezone_adapter.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_time_zone.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\content_time_zone.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\1ad538d3ac41d735b3a9690b951528ab3af8928c\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addnotes.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\addnotes.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\alarm.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\1ad538d3ac41d735b3a9690b951528ab3af8928c\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\1ad538d3ac41d735b3a9690b951528ab3af8928c\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addtask.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\addtask.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\111b4575e1cbc4ceca2a1fb21206d0d94d9cd0e3\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\1ad538d3ac41d735b3a9690b951528ab3af8928c\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_time_zone.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\activity_time_zone.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\111b4575e1cbc4ceca2a1fb21206d0d94d9cd0e3\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_item.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\recyclerview_item.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_note_viewer.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\activity_note_viewer.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_list_item.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\spinner_list_item.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment1.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\fragment1.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mytask.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\mytask.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fullscreen.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\activity_fullscreen.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\111b4575e1cbc4ceca2a1fb21206d0d94d9cd0e3\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\1ad538d3ac41d735b3a9690b951528ab3af8928c\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_note.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\content_note.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\1ad538d3ac41d735b3a9690b951528ab3af8928c\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\1ad538d3ac41d735b3a9690b951528ab3af8928c\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\1ad538d3ac41d735b3a9690b951528ab3af8928c\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\111b4575e1cbc4ceca2a1fb21206d0d94d9cd0e3\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_layout.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notes.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\notes.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\111b4575e1cbc4ceca2a1fb21206d0d94d9cd0e3\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setalarm.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\setalarm.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_group.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\111b4575e1cbc4ceca2a1fb21206d0d94d9cd0e3\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainmenu.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\mainmenu.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\7a3f76514d01021fe02fe910741d9fabaf60b250\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\THIYAGARAAJ\\.android\\build-cache\\111b4575e1cbc4ceca2a1fb21206d0d94d9cd0e3\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\remaindtab.xml",
+        "source": "D:\\Work Directory\\Studio_Apps\\TimeKeeper\\app\\src\\main\\res\\layout\\remaindtab.xml"
+    }
+]

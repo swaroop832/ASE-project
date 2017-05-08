@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/locationLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="10px"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/location"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Set Location"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/location"
+                    android:layout_toLeftOf="@+id/digital_clock"
+                    android:layout_toStartOf="@+id/digital_clock"
+                    android:gravity="left"
+                    android:text="Location"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textSize="12dp" />
+            </LinearLayout>
+
+          <!--  <DigitalClock
+                android:id="@+id/digital_clock"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/location"
+                android:layout_toRightOf="@+id/location"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:textColor="#000"
+                android:textSize="25dp" />-->
+
+            <TextClock
+                android:id="@+id/digital_clock"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/location"
+                android:layout_toRightOf="@+id/location"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:textColor="#000"
+                android:format12Hour="hh:mm a"
+                android:textSize="25dp" />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp">
+        <AnalogClock
+            android:id="@+id/analog_clock"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleX="1"
+            android:scaleY="1"
+            android:scaleType="fitXY"
+            android:layout_gravity="center_horizontal" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
